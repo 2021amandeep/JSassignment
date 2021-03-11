@@ -1,0 +1,30 @@
+body{
+    background-image: url(https://wallpapercave.com/wp/wp2831929.jpg);
+}
+#table_id{
+    font-family: sans-serif;
+}
+#vis1{
+    visibility: hidden;
+}
+.SA{
+    background-color: rgb(58, 58, 114);
+    font-size: large;
+    color: white;
+}
+.some{
+    font-size: xx-large;
+}
+span{
+    font-size: 3rem;
+font-weight: 50;
+margin: 1rem 0 3rem;
+text-align: center;
+font-family: 'Lobster', cursive;
+color: #fff;
+font-weight: 800;
+color: lime;
+}
+button:hover{
+    opacity: 0.7;
+}
